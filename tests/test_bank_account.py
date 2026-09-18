@@ -12,7 +12,7 @@ class TestBankAccount(unittest.TestCase):
         self.owner = Client(
             1010,
             "Pete Zahut",
-            "pzahut@vernon-mullain.ca"
+            "pzahut@yarrow-mullain.ca"
         )
         self.account = BankAccount(
             20019,
